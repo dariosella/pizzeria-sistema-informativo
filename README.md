@@ -1,6 +1,6 @@
 # Thin client Pizzeria
 
-Il progetto mantiene la struttura MVC/DAO fornita:
+Il progetto mantiene la struttura MVC/DAO:
 
 - `pizzeria.controller`: controller dell'applicazione e dei quattro ruoli;
 - `pizzeria.model.dao`: un DAO per ciascuna stored procedure;
