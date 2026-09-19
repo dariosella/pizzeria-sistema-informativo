@@ -1,7 +1,8 @@
 # Sistema informativo di una pizzeria
 
 Sistema informativo per la gestione di una pizzeria, sviluppato come progetto universitario per l'esame di Basi di Dati.  
-L'applicazione implementa una soluzione a client leggero (thin client) che interroga il database esclusivamente tramite stored procedure, seguendo un'architettura MVC/DAO. Per ulteriori informazioni relative al processo di progettazione del database, dall'analisi dei requisiti fino alla progettazione fisica, leggere la relazione  in PDF allegata.
+L'applicazione implementa una soluzione a client leggero (thin client) che interroga il database esclusivamente tramite stored procedure, seguendo un'architettura MVC/DAO.
+> Per ulteriori informazioni relative al processo di progettazione del database, dall'analisi dei requisiti fino alla progettazione fisica, leggere la relazione  in PDF allegata.
 
 ## Obiettivo
 
