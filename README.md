@@ -1,4 +1,4 @@
-# Thin Client Pizzeria
+# Sistema informativo di una pizzeria
 
 Sistema informativo per la gestione di una pizzeria, sviluppato come progetto universitario per l'esame di Basi di Dati.  
 L'applicazione implementa una soluzione a client leggero (thin client) che interroga il database esclusivamente tramite stored procedure, seguendo un'architettura MVC/DAO.
