@@ -1,7 +1,7 @@
 # Sistema informativo di una pizzeria
 
 Sistema informativo per la gestione di una pizzeria, sviluppato come progetto universitario per l'esame di Basi di Dati.  
-L'applicazione implementa una soluzione a client leggero (thin client) che interroga il database esclusivamente tramite stored procedure, seguendo un'architettura MVC/DAO.
+L'applicazione implementa una soluzione a client leggero (thin client) che interroga il database esclusivamente tramite stored procedure, seguendo un'architettura MVC/DAO. Per ulteriori informazioni relative al processo di progettazione del database, dall'analisi dei requisiti fino alla progettazione fisica, leggere la relazione  in PDF allegata.
 
 ## Obiettivo
 
@@ -16,7 +16,7 @@ Gestire in modo centralizzato le attività principali di un locale di pizzeria, 
 
 ## Architettura
 
-Il progetto è organizzato secondo il pattern MVC/DAO:
+Il thin client è organizzato secondo il pattern MVC/DAO:
 
 - `pizzeria.controller`: controller dell'applicazione e delle funzionalità per i quattro ruoli;
 - `pizzeria.model.dao`: accesso ai dati tramite DAO e stored procedure;
@@ -27,7 +27,7 @@ Il progetto è organizzato secondo il pattern MVC/DAO:
 
 ## Requisiti
 
-Prima di avviare il progetto assicurati di avere:
+Prima di avviare l'applicazione assicurati di avere:
 
 - Java 17 o superiore;
 - MySQL Server;
